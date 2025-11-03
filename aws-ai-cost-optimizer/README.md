@@ -280,8 +280,8 @@ MIT License - Free to use for your portfolio and projects!
 ## 🙋 **Contact**
 
 - 📧 Email: Adeoyeologunmeta@gmail.com
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/adeoyeologunmeta-724b57218)
-- 🐙 GitHub: [@yourusername](https://github.com/credchampion)
+- 💼 LinkedIn: [Adeoye Ologunmeta](https://linkedin.com/in/adeoyeologunmeta-724b57218)
+- 🐙 GitHub: [@credchampion](https://github.com/credchampion)
 
 ---
 
